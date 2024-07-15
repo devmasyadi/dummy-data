@@ -1,0 +1,61 @@
+{
+    "Ads": [
+      {
+        "banner_id":"ba924c1fc44d29ac",
+        "interstitial_id": "0ee55073fd46cb13",
+        "reward_id":"d64a59befe5cef9",
+        "natives_id":"8d9bec8b94279ed6",
+        "open_app_id":"fce5b3d0bbba9df0",
+        "interval_interstitial":4,
+        "channel_id":"9285717016",
+        "status_app": "0",
+        "link_redirect": "https://"
+      }
+    ],
+    "Data": [
+      {
+        "id": 1,
+        "title": "The Bugatti Chiron is a mid-engine two-seater sports car designed and developed in Germany by Bugatti Engineering GmbH",
+        "category": "Supercar",
+        "description": "<p style=\"text-align: justify;\">On 8 September 2019, Bugatti presented a limited production high performance variant of the Chiron called the Chiron Super Sport 300+ to owners taking part in the company's 110th-anniversary tour in Europe.[32] The variant is limited to 30 examples at a net unit price of 3.5 million euros. Changes from the standard Chiron include a more powerful engine, increased top speed, and a characteristic paint scheme featuring a lacquer-coated carbon fibre body with orange stripes, echoing the aesthetics of the company's previous top speed record-breaking cars, the Veyron Super Sport World Record Edition and the Veyron Grand Sport Vitesse World Record Car.</p>\n<p style=\"text-align: justify;\">The car is powered by a 1,600 PS (1,175 kW; 1,580 hp) quad-turbocharged W16 engine shared with the Bugatti Centodieci, nicknamed \"Thor\". This car has a grey Bugatti logo made of black enamel and silver, the exhaust system from the Centodieci, a modified gearbox with longer ratios and front and rear bumpers optimised for aerodynamics at high speed, resulting in the overall length increase of the car by 248.9 mm (9.8 in).</p>\n<p style=\"text-align: justify;\">The Super Sport 300+ will also be equipped with a top speed limiter, akin to the one found in the standard Chiron. Without the limiter, Bugatti claims that the car can attain a maximum speed in excess of 483 km/h (300 mph), as was achieved in August 2019 with a pre-production model. Bugatti will also prepare the cars of owners who want to take the car to its full potential at the Ehra-Lessien test track.</p>",
+        "image": "file:///android_asset/image/sample_bugati.jpg"
+      },
+      {
+        "id": 2,
+        "title": "The Pagani Zonda is a mid-engine sports car produced by Italian sports car manufacturer Pagani",
+        "category": "Supercar",
+        "description": "file:///android_asset/html/sample_guide1.html",
+        "image":"https://aliendro.id/demo/guide_json/pagani1.jpg"
+      },
+      {
+        "id": 3,
+        "title": "The Rolls-Royce Sweptail is a one-off large luxury car made by Rolls-Royce Motor Cars.",
+        "category": "Supercar",
+        "description": "https://aliendro.id/demo/guide_json/sample_guide2.html",
+        "image":"https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Rolls-Royce_Sweptail_front.jpg/800px-Rolls-Royce_Sweptail_front.jpg"
+      },
+      {
+        "id": 4,
+        "title": "The Koenigsegg CCX is a mid-engine sports car manufactured by Swedish automotive manufacturer Koenigsegg Automotive AB.",
+        "category": "Supercar",
+        "description": "file:///android_asset/html/sample_guide1.html",
+        "image":"file:///android_asset/image/Koenigsegg.jpg"
+      },
+      {
+        "id": 5,
+        "title": "The Sukhoi Su-35 is the designation for two improved derivatives of the Su-27 air-defence fighter.",
+        "category": "Fighter",
+        "description": "https://aliendro.id/demo/guide_json/sample_guide3.html",
+        "image":"file:///android_asset/image/Sukhoi Su-35S.jpg"
+      },
+      {
+        "id": 6,
+        "title": "The Dassault Rafale, literally meaning \"gust of wind\" or \"burst of fire\" in a more military sense.",
+        "category": "Fighter",
+        "description": "<p style=\"text-align: justify;\">In the late 1970s, the French Air Force and French Navy were seeking to replace and consolidate their existing fleets of aircraft. In order to reduce development costs and boost prospective sales, France entered into an arrangement with the UK, Germany, Italy and Spain to produce an agile multi-purpose \"Future European Fighter Aircraft\" (which would become the Eurofighter Typhoon). Subsequent disagreements over workshare and differing requirements led to France's pursuit of its own development programme. Dassault built a technology demonstrator which first flew in July 1986 as part of an eight-year flight-test programme, paving the way for the go-ahead of the project. The Rafale is distinct from other European fighters of its era in that it is almost entirely built by one country, involving most of France's major defence contractors, such as Dassault, Thales and Safran.</p>\n<p><img style=\"display: block; margin-left: auto; margin-right: auto;\" src=\"https://aliendro.id/demo/guide_json/Dassault%20Rafale2.jpg\" alt=\"\" width=\"317\" height=\"211\" /></p>\n<p style=\"text-align: justify;\">Many of the aircraft's avionics and features, such as direct voice input, the RBE2 AA active electronically scanned array (AESA) radar and the optronique secteur frontal infra-red search and track (IRST) sensor, were domestically developed and produced for the Rafale programme. Originally scheduled to enter service in 1996, the Rafale suffered significant delays due to post-Cold War budget cuts and changes in priorities. There are three main variants: Rafale C single-seat land-based version, Rafale B twin-seat land-based version, and Rafale M single-seat carrier-based version.</p>\n<p style=\"text-align: justify;\">Introduced in 2001, the Rafale is being produced for both the French Air Force and for carrier-based operations in the French Navy. The Rafale has been marketed for export to several countries, and was selected for purchase by the Egyptian Air Force, the Indian Air Force, the Qatar Air Force, the Hellenic Air Force, the Croatian Air Force, the Indonesian Air Force and the United Arab Emirates Air Force. The Rafale has been used in combat over Afghanistan, Libya, Mali, Iraq and Syria.</p>",
+        "image":"https://aliendro.id/demo/guide_json/Dassault Rafale2.jpg"
+      }
+  
+    ]
+  }
+  
